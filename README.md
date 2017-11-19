@@ -2,4 +2,5 @@
 A idéia deste repositório é mantar um conjunto de notas, resumos e explicações
 a respeito de vários temas, assuntos e conceitos de Data Science.
 
-De certo modo será sempre um trabalho em andamento.
+De certo modo será sempre um trabalho em andamento, já que pretendo (na medida
+do possível) manter os tópicos atualizados.
