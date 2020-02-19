@@ -1,6 +1,8 @@
-# Data_Science
-A idéia deste repositório é mantar um conjunto de notas, resumos e explicações
-a respeito de vários temas, assuntos e conceitos de Data Science.
+# Data Science
 
-De certo modo será sempre um trabalho em andamento, já que pretendo (na medida
-do possível) manter os tópicos atualizados.
+Este repositório é um grande *guarda-chuva* para diversos conteúdos
+relacionados de alguma forma com a análise de dados, analytics,
+big data analytics, machine learning, etc.
+
+Disciplinas específicas clássicas, da matemática, estatística e
+outras, estão em repositórios específicos.
